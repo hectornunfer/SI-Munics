@@ -152,7 +152,6 @@ def receive_message(ciphertext):
         print(decrypted[:12])
         next_hop = decrypted[:4]
         print("Sending to the next node with topic: ", next_hop)
-        decrypted = decrypted[4:] # Remove the user_id
 
 # Example usage
 #key = findPublicKeyById("hnf")
