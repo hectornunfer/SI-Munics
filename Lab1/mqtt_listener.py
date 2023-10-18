@@ -4,7 +4,7 @@ import mqtt as mqtt_client
 
 MQTT_SERVER = "18.101.47.122"
 MQTT_USER = "sinf"  
-MQTT_PASSWORD = "HkxNtvLB3GC5GQRUWfsA"  
+MQTT_PASSWORD = "ASK for it"  
 MQTT_PORT = 1883
 MQTT_KEEPALIVE = 60 
 MQTT_TOPIC = "hnf"
